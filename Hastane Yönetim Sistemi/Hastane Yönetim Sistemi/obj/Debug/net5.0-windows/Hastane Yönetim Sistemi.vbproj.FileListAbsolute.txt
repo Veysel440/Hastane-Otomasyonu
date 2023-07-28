@@ -1,0 +1,31 @@
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.exe
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.deps.json
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.runtimeconfig.json
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.runtimeconfig.dev.json
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.dll
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\ref\Hastane Yönetim Sistemi.dll
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\Hastane Yönetim Sistemi.pdb
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.vbproj.AssemblyReference.cache
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.DoktorForm.resources
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.Form1.resources
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.HastaForm.resources
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.Resources.resources
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.Resepsiyon.resources
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.vbproj.GenerateResource.cache
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.AssemblyInfoInputs.cache
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.AssemblyInfo.vb
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.vbproj.CoreCompileInputs.cache
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.dll
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\ref\Hastane Yönetim Sistemi.dll
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.pdb
+D:\projeler\Hastane Yönetim Sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.genruntimeconfig.cache
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.TedaviForm.resources
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane_Yönetim_Sistemi.TeşhisForm.resources
+D:\projeler\Hastane yönetim sistemi\Hastane Yönetim Sistemi\obj\Debug\net5.0-windows\Hastane Yönetim Sistemi.vbproj.CopyComplete
